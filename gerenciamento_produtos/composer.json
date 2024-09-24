@@ -1,0 +1,15 @@
+{
+    "name": "sam/gerenciamento_produtos",
+    "autoload": {
+        "psr-4": {
+            "Sam\\GerenciamentoProdutos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "samuel-farias",
+            "email": "samuelcontatoe1@gmail.com"
+        }
+    ],
+    "require": {}
+}
